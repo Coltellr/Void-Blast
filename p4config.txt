@@ -1,0 +1,4 @@
+P4PORT=ssl:p4prod.uqac.ca:1666
+P4USER=rcoltelli
+P4CLIENT=rcoltelli_Rapha�l_laptop_spaceshooter-main_392
+P4IGNORE=.p4ignore.txt;.gitignore
