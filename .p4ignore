@@ -1,0 +1,18 @@
+# Visual Studio / Rider
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine Folders
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.idea/
+
+# Builds
+Build/

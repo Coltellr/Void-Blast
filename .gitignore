@@ -16,3 +16,7 @@ DerivedDataCache/
 
 # Builds
 Build/
+
+*.slnx
+.vsconfig
+*.DotSettings.user
